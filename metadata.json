@@ -1,0 +1,7 @@
+{
+  "name": "Farcaster Vibe Checker & Follow Manager",
+  "description": "Farcaster hesabınızda sizi takip etmeyenleri bulan, profillerini analiz eden ve takibi bırakmanızı kolaylaştıran modern bir araç.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
