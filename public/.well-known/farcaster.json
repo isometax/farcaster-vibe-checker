@@ -1,18 +1,7 @@
-
 {
   "accountAssociation": {
-    "header": "eyJmaWQiOiA0MjAsICJ0eXBlIjogImN1c3RvZHkiLCAia2V5IjogIjB4MDAwIn0",
-    "payload": "eyJkb21haW4iOiAibXktYXBwLnZlcmNlbC5hcHAifQ",
-    "signature": "MHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw"
-  },
-  "frame": {
-    "version": "1",
-    "name": "Farcaster Vibe Checker",
-    "iconUrl": "https://picsum.photos/seed/farcaster-vibe/256/256",
-    "homeUrl": "https://farcaster-vibe-checker.example.com",
-    "imageUrl": "https://picsum.photos/seed/farcaster-vibe-splash/1200/630",
-    "buttonTitle": "Check Your Vibes",
-    "splashImageUrl": "https://picsum.photos/seed/farcaster-vibe-splash/1200/630",
-    "splashBackgroundColor": "#8a63d2"
+    "header": "eyJmaWQiOjM4MzQ0NywidHlwZSI6ImF1dGgiLCJrZXkiOiIweDg4NTYxMUJjYTA5ZDAwYkJEMWQ5RjNCNWY5MDdBNkE4MGQwMzUxRWQifQ",
+    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItdmliZS1jaGVja2VyLnZlcmNlbC5hcHAifQ",
+    "signature": "ffi4e5IIdM0EX3bGTZ0DiQOVdiTJH4HJqA/Pbvv4PuMe1ahSM4XBtzb6EMjZoustAtJR4/q7M5P30G8sIkkQMxs="
   }
 }
